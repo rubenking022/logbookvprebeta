@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome Quiz App | CodingNepal</title>
+    <title>Game for Ruben</title>
     <link rel="stylesheet" href="Quiz.css">
     <!-- FontAweome CDN Link for Icons-->
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
