@@ -31,7 +31,7 @@
                     <p>Logbook es un sistema con muchas mejoras, para compartir archivos en el que puedes rellenar tu perfil, subir cualquier tipo de archivo y sobre todo crear carpetas, buscar amigos de tu escuela, concedir permisos a los archivos/carpetas a tus Profesores/compañeros, comentar las publicaciones, recibir notificaciones y mucho mas.</p>
 
                     <h3>Dedicatoria</h3>
-                    <p>Este sistema se lo dedico a mi madre por que desde que empece en el mundo de las computadoras ella me dio su apoyo emocional y economico, me compro computadoras, me pagaron mis estudios, estoy muy agradecido con ella, la amo.</p>
+                    <p>Este sistema se lo dedico a mis padres que me  estan pagadon mis estudios, estoy muy agradecido.</p>
 
                     <h3>Modulos</h3>
                     <p>Defino a grandes rasgos los modulos generales del sistema</p>
