@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+html,body{
+     display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  overflow: hidden;
+  background: url("bg.png"), -webkit-linear-gradient(bottom, #0250c5, #d43f8d);
+}
+::selection{
+    color: #fff;
+    background: #d43f8d;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container .form{
+  background: rgba(255,255,255,0.04);
+  position: absolute;
+    top: 50%;
+  left: 20%;
+  z-index: 999;
+  padding: 30px 35px;
+    border-radius: 5px;;
+  transform: translate(-60%,-60%);
+ 
+  box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+}
+.container .form form .form-control{
+    height: 40px;
+    font-size: 15px;
+}
+.container .form form .forget-pass{
+    margin: -15px 0 15px 0;
+}
+.container .form form .forget-pass a{
+   font-size: 15px;
+}
+.container .form form .button{
+     background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    color: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    font-size: 10px;
+    font-weight: 100;
+    transition: all 0.3s ease;
+    left: 100px;
+}
+.container .form form .button:hover{
+      background: linear-gradient(90deg, #fa7199, #f5ce62, #e43603, #fa7199);
+
+
+}
+.container .form form .link{
+    padding: 5px 0;
+}
+.container .form form .link a{
+    color: #000000;
+}
+.container .login-form form p{
+    font-size: 14px;
+}
+.container .row .alert{
+    font-size: 14px;
+}
