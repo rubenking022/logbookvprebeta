@@ -1,22 +1,21 @@
-- - - - -  - - - - - - - - - - - BELBOX V1.5 - Compartir archivos- - - - - - - - - - - - 
+                                - - - - -  - - - - - - - - - - - logbook - Carpeta admnistrativa- - - - - - - - - - - - 
 
-	BELBOX V1.5 es un sistema para compartir archivos de proposito general, codigo abierto y gratis.
-
-					Este es una mejora de la versión anterior de Belbox
+	                                        Logbook es un sistema para escuelas de administra tus trabajar 
 
 
-######################## BELBOX V1.5 ###########################
+                                                ######################## logbook V1.0 ###########################
 
-Descripcion:
-Loogbook es un sistema para compartir archivos en el que puedes rellenar tu perfil, subir cualquier tipo de archivo y sobre todo crear carpetas, buscar amigos, concedir permisos a los archivos/carpetas a tus amigos/familiares/compañeros, comentar las publicaciones, recibir notificaciones y mucho mas.
+                                                                         Descripcion:
+									 
+									 
+Logbook es un sistema para administrat tus archivos en el que puedes rellenar tu perfil, subir cualquier tipo de archivo y sobre todo crear carpetas, buscar amigos, concedir permisos a los archivos/carpetas a tus amigos/profesores/compañeros, comentar las publicaciones o tareas de otros, recibir notificaciones y mucho mas.
 
+                                     
 
-
-
-- - - - - - - - - - - - MODULOS - - - - - - - - - - - - 
+                                                    - - - - - - - - - - - - MODULOS - - - - - - - - - - - - 
 Defino a grandes rasgos los modulos generales del sistema.
 
-1). Usuarios: Se pueden registrar para acceder a sus cuentas y asi empezar la aventura con belbox.
+1). Usuarios: Se pueden registrar para acceder a sus cuentas y asi empezar la aventura con logbook. (Cuando una escuela contrate el servicio se añaden de forma diferente)
 
 2). Subir archivos: Cada usuario puede subir lo que quiera y lo visualizara en su muro, el cual podran ver tambien sus amigos si les concede los permisos.
 
@@ -28,7 +27,7 @@ Defino a grandes rasgos los modulos generales del sistema.
 
 6).Notificaciones: recibe notificaciones cuando tus amigos descarguen o comentan tus archivos y/o carpetas.
 
-- - - - - - - - - - -  - MEJORAS! - - - - - - - - - - - - - - - - 
+                                                 - - - - - - - - - - -  - MEJORAS! - - - - - - - - - - - - - - - - 
 1). Actualizar la imagen de perfil con ajax.
 
 2). Actualizar los datos personales.
@@ -61,29 +60,19 @@ Defino a grandes rasgos los modulos generales del sistema.
 
 16). Registro de una forma elegante, con ajax.
 
-17). Algo más?, pedid y se os dara by production abisoft.
 
 
-	Si quieres mejoras sobre este sistema no dudes en ponerte en contacto conmigo (waptoing7@gmail.com).
-	EL sistema es de codigo abierto, puede ser utilizado para empresas o uso personal.
+	Si quieres mejoras sobre este sistema no dudes en ponerte en contacto conmigo (rubenking022@gmail.com).
 
-
-	Apoyame!
-	Hay muchas formas en las que me puedes apoyar para seguir creando contenido, proyectos y actualizaciones a los sistemas
 
 
 	COMENTARIOS
-	Te invito a que dejes un comentario describiendo que tal te pareció el sistema de BELBOX V1.5 con PHP, te lo agradeceré.
+	Te invito a que dejes un comentario describiendo que tal te pareció el sistema de logbook V1.0 con PHP, te lo agradeceré.
 
 
 
 	INSTALACIÓN Y SOPORTE TÉCNICO
-	El sistema de BELBOX V1.5 es gratuito y puedes usarlo libremente para uso personal y/o comercial, pero no se brinda soporte gratuito para la instalación del sistema ni Ayuda con errores y problemas reportados. 
+	El sistema de logbook V1.0 es de pago y puedes usarlo libremente para uso personal y/o comercial, escolar pero no se brinda soporte gratuito para la instalación del sistema ni Ayuda con errores y problemas reportados. (Pagando subscripcion si hay soporte=
 
 	Si deseas contratar el servicio de soporte técnico para el sistema de 
-	BELBOX V1.5 debes enviar un E-mail a: waptoing7@gmail.com, con el asunto "Soporte BELBOX", en donde se detalle el tipo de ayuda que se desea recibir. Luego se responderá mediante una cotización con el costo del servicio, forma de pago y tiempo de entrega.
-
-
-
-An production by Abisoft
-https://github.com/amnersaucedososa
+	logbook V1.0 debes enviar un E-mail a: rubenking022@gmail.com, con el asunto "Soporte logbook", en donde se detalle el tipo de ayuda que se desea recibir. Luego se responderá mediante una cotización con el costo del servicio, forma de pago y tiempo de entrega.
